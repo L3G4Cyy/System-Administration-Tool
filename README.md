@@ -13,7 +13,7 @@ Im still working on it
 - [ ] Realtime Audio Broadcast
 - [ ] Screenshot
 
-### Usage
+### Usage:
 First start admin.py with command
 
 For linux:
@@ -21,7 +21,7 @@ For linux:
 
 For windows:
 `python -m admin.py`
-
+-------------------
 And then client.py
 
 For linux:
@@ -29,5 +29,5 @@ For linux:
 
 For windows:
 `python -m client.py`
-
+------------------------
 More instructions are in admin.py and client.py
