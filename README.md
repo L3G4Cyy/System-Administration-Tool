@@ -6,6 +6,7 @@ Im still working on it
 ##Features:
 - [x] Get and Upload custom commands for files
 - [x] All Terminal (win/lin) commands
+- [x] Command logs file 
 
 ###TODO:
 - [ ] Realtime Video Broadcast
