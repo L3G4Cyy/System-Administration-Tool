@@ -3,17 +3,17 @@
 This is my pretty bad sys admin tool.
 Im still working on it
 
-##Features:
+## Features:
 - [x] Get and Upload custom commands for files
 - [x] All Terminal (win/lin) commands
 - [x] Command logs file 
 
-###TODO:
+### TODO:
 - [ ] Realtime Video Broadcast
 - [ ] Realtime Audio Broadcast
 - [ ] Screenshot
 
-####Usage
+### Usage
 First start admin.py with command
 
 For linux:
