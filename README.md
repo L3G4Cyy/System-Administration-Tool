@@ -11,3 +11,22 @@ Im still working on it
 - [ ] Realtime Video Broadcast
 - [ ] Realtime Audio Broadcast
 - [ ] Screenshot
+
+#Usage
+First start admin.py with command
+
+For linux:
+`python3 admin.py`
+
+For windows:
+`python -m admin.py`
+
+And then client.py
+
+For linux:
+`python3 client.py`
+
+For windows:
+`python -m client.py`
+
+More instructions are in admin.py and client.py
